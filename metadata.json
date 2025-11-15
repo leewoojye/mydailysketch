@@ -1,0 +1,8 @@
+{
+  "name": "woo's daily Sketch",
+  "description": "An AI-powered visual diary that transforms your photos and voice memos into beautiful hand-drawn sketches and emotional journal entries. Summarize your day with an AI-generated emotional score and review.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
